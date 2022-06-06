@@ -1,4 +1,6 @@
-<img src="./logo-5.png" width="150">
+<img src="https://raw.githubusercontent.com/Career-Topologies/.github/main/profile/logo-5.png" width="150">
+
+
 
 
 # Career Topologies
