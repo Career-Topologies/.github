@@ -1,3 +1,6 @@
+<img src="logo-5.png" width="150">
+
+
 # Career Topologies
 
 Framework Open-Source de Carreira para Empresas de Tecnologia.
