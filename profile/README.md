@@ -1,4 +1,4 @@
-<img src="logo-5.png" width="150">
+<img src="./logo-5.png" width="150">
 
 
 # Career Topologies
