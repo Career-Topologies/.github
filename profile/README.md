@@ -13,3 +13,8 @@ Framework Open-Source de Carreira para Empresas de Tecnologia.
 - [ ] Papéis, Responsabilidades e Métricas
 - [ ] Escopo e Autonomia
 - [ ] PDI, Skills e Referências
+
+
+## Groups
+
+- [Slack](https://join.slack.com/t/sgespaco/shared_invite/zt-1aaoqosnq-4LK2NIWKCZoH94LQ0FSuqQ)
