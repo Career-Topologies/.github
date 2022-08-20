@@ -2,18 +2,9 @@
 
 # Career Topologies
 
-Framework Open-Source de Carreira para Empresas de Tecnologia.
+Conceitos e modelos para ajudar estruturar carreira em empresas de tecnologia.
 
-- [Saiba mais](https://github.com/careertopologies/careertopologies)
-
-🗺️ Roadmap da versão 1.0:
-
-- [ ] Documentar no Github
-- [ ] Newsletter sobre carreira
-- [ ] Minibook sobre o framework
-- [ ] Website e app com ferramentas
-- [ ] Traduzir para inglês
-
+[Saiba mais](https://github.com/careertopologies/careertopologies)
 
 ## 🔗 Links
 
